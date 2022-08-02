@@ -8,7 +8,7 @@
 }
 
 #navbar {
-    background-color: tan;
+    background-color: #C4A484;
     display: flex;
     justify-content: center;
     padding-top: 0.7rem;
@@ -95,12 +95,12 @@ div .project-tile {
 }
 
 .project-tile h1 {
-    background-color: tan;
+    background-color: #C4A484;
     height: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: red;
+    color: black;
     font-weight: 200;
     text-transform: uppercase;
     font-size: 25px;
@@ -146,17 +146,17 @@ img {
 }
 
 .button:hover {
-    background-color: tan;
-    color: red;
-    border: 2px solid red;
+    background-color: #C4A484;
+    color: black;
+    border: 2px solid black;
     transform: translateY(8px);
 }
 
 #footer {
-    background-color: tan;
+    background-color: #C4A484;
     margin-top: 265px;
     /* border-bottom: 4px solid black; */
-    color: red;
+    color: black;
 }
 
 #footer-head {
@@ -171,7 +171,7 @@ img {
     margin-top: 30px;
     font-size: 25px;
     font-style: italic;
-    color: red;
+    color: black;
 }
 
 #social-media {
@@ -192,20 +192,20 @@ img {
 .social-link a {
     text-decoration: none;
     text-transform: uppercase;
-    color: red;
+    color: black;
     margin-left: 10px;
     font-size: 1.4rem;
 }
 
 #copyright-text {
-    border-top: 4px solid red;
+    border-top: 4px solid black;
     padding-top: 15px;
     line-height: 0.8rem;
     display: flex;
     justify-content: space-evenly;
     padding-bottom: 20px;
     font-size: 1.5rem;
-    color: red;
+    color: black;
 }
 
 /* #social-media .social-link a:hover {
